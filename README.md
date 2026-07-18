@@ -1,1 +1,0 @@
-# Salary-prediction-model
