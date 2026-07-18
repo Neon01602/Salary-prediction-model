@@ -7,7 +7,7 @@ import io
 
 st.set_page_config(page_title="Salary Predictor", page_icon="💰", layout="wide")
 
-MODEL_DIR = Path(__file__).parent / "model"
+MODEL_DIR = Path(__file__).parent / "model1"
 
 
 @st.cache_resource
